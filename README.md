@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZNaCl1
+- 👋 Hi, I’m @Matt-Hays
 - 👀 I’m a Mechanical Engineer and graduate student studying Computer Science at Baylor University.
 - 🌱 I’m currently learning CS Fundamentals such as multiprogramming, database systems, web, and game development.
 - 💞️ I’m looking to collaborate on web and game development projects.
